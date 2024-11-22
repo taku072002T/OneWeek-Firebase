@@ -1,4 +1,30 @@
 ## Hello! Firebasse!
+
+# Branches
+I had separated the project into the several Branches to decide which function is needed for my project.
+Now, I created the branch,"Setup" to initialize react and Firebase App.
+
+Renewing Readme.md, I will renew the Develop branch definitely for uncomplementaly.
+If Readme is collised, I simply renew develop branch and the readme in functionsFrame isn't merged.
+
+Here the list.
+
+:Master
+The Production Frame, final phase.
+If the app is setup and tested, finally I renew this branch.
+
+:Develop
+Main Developing branch.
+If the function of the app is setup, finally I renew this branch.
+
+--FunctionsFrame
+
+:Setup
+to initialize react and Firebase App.
+
+
+--FunctionsFrame -> :Develop -> :Master
+
 # Introduction
 Firebase, Web-based service that serves the function for web-productions...
 Using this service, you can create your web apps easily and smoothly.
